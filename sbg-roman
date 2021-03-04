@@ -1,9 +1,0 @@
-@font-face {
-	font-family: 'SBG Roman';
-	src:
-		url('https://sbg-sac.github.io/SBG_STD_F_LTStd-Roman.woff2') format('woff2'),
-		url('https://sbg-sac.github.io/SBG_STD_F_LTStd-Roman.woff') format('woff'),
-		url('https://sbg-sac.github.io/SBG_STD_F_LTStd-Roman.ttf') format('truetype');
-	font-weight: normal;
-	font-style: normal;
-}
