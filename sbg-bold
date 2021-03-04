@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'SBG Bold';
+	src:
+		url('https://sbg-sac.github.io/SBG_STD_F_LTStd-Bold.woff2') format('woff2'),
+		url('https://sbg-sac.github.io/SBG_STD_F_LTStd-Bold.woff') format('woff'),
+		url('https://sbg-sac.github.io/SBG_STD_F_LTStd-Bold.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
