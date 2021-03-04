@@ -1,10 +1,37 @@
 /* Salzburg AG Custom Fonts*/
 @font-face {
-	font-family: 'Frutiger Light';
+	font-family: 'SBG Light';
 	src:
 		url('https://sbg-sac.github.io/SBG_STD_F_LTStd-Light.woff2') format('woff2'),
 		url('https://sbg-sac.github.io/SBG_STD_F_LTStd-Light.woff') format('woff'),
 		url('https://sbg-sac.github.io/SBG_STD_F_LTStd-Light.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'SBG Bold';
+	src:
+		url('https://sbg-sac.github.io/SBG_STD_F_LTStd-Bold.woff2') format('woff2'),
+		url('https://sbg-sac.github.io/SBG_STD_F_LTStd-Bold.woff') format('woff'),
+		url('https://sbg-sac.github.io/SBG_STD_F_LTStd-Bold.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'SBG Roman';
+	src:
+		url('https://sbg-sac.github.io/SBG_STD_F_LTStd-Roman.woff2') format('woff2'),
+		url('https://sbg-sac.github.io/SBG_STD_F_LTStd-Roman.woff') format('woff'),
+		url('https://sbg-sac.github.io/SBG_STD_F_LTStd-Roman.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'SBG LightItalic';
+	src:
+		url('https://sbg-sac.github.io/SBG_STD_F_LTStd-LightItalic.woff2') format('woff2'),
+		url('https://sbg-sac.github.io/SBG_STD_F_LTStd-LightItalic.woff') format('woff'),
+		url('https://sbg-sac.github.io/SBG_STD_F_LTStd-LightItalic.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
