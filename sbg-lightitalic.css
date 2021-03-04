@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'SBG LightItalic';
+	src:
+		url('https://sbg-sac.github.io/SBG_STD_F_LTStd-LightItalic.woff2') format('woff2'),
+		url('https://sbg-sac.github.io/SBG_STD_F_LTStd-LightItalic.woff') format('woff'),
+		url('https://sbg-sac.github.io/SBG_STD_F_LTStd-LightItalic.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
